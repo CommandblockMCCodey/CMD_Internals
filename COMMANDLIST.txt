@@ -31,4 +31,4 @@ CMD_Internals
       |    L___BACK
       |
       L___CLOSE
-L___HELP
+      L___HELP
