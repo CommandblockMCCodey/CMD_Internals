@@ -15,6 +15,7 @@ CRASH      DANGER! it crashes you PC/Laptop instandly. its just for fun but be c
 
 
 CMD_Internals
+      |
       L___Functions.
       |    L___RRUN
       |    L___SET_VAR  
