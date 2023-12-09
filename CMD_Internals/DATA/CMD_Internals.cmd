@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 echo CommandblockMC Coding [Version 10.2.5]
-echo (c) CommandblockMC Coding Corporation. All rights reserved.
+echo (c) CommandblockMC Coding Corporation. No rights reserved.
 echo.
 :start
 set /p userInput=CMD_Internals.
