@@ -14,26 +14,21 @@ CRASH      DANGER! it crashes you PC/Laptop instandly. its just for fun but be c
 
 
 
-
-
-
-
-
 CMD_Internals
-| -- Functions.
-|    | -- RRUN
-|    | -- SET_VAR  
-|    | -- CRASH  
-|    | -- HELP 
-|    | -- BACK
-|
-| -- Tools.
-|    | -- DIR 
-|    | -- IPCONFIG  
-|    | -- WHOIS  
-|    | -- CMD
-|    | -- HELP 
-|    | -- BACK
-|
-| -- CLOSE
-| -- HELP
+      L___Functions.
+      |    L___RRUN
+      |    L___SET_VAR  
+      |    L___CRASH  
+      |    L___HELP 
+      |    L___BACK
+      |
+      L___Tools.
+      |    L___ DIR 
+      |    L___IPCONFIG  
+      |    L___WHOIS  
+      |    L___CMD
+      |    L___HELP 
+      |    L___BACK
+      |
+      L___CLOSE
+L___HELP
