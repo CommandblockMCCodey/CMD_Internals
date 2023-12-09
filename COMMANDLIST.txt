@@ -9,4 +9,31 @@ WHOIS      does a WOHIS query but make sure you written in upper case letters
 IPCONFIG      does the same as ipconfig, make sure you written in upper case letters
 DIR      does the same as dir, make sure you written in upper case letters
 BACK      goes back to the root directory, make sure you written in upper case letters
-CRASH      DANGER! it crashes you PC/Laptop instandly and somtimes leaves a blue screen. its just for fun but be careful. make sure you written in upper case letters
+CRASH      DANGER! it crashes you PC/Laptop instandly. its just for fun but be careful. make sure you written in upper case letters
+
+
+
+
+
+
+
+
+
+CMD_Internals
+| -- Functions.
+|    | -- RRUN
+|    | -- SET_VAR  
+|    | -- CRASH  
+|    | -- HELP 
+|    | -- BACK
+|
+| -- Tools.
+|    | -- DIR 
+|    | -- IPCONFIG  
+|    | -- WHOIS  
+|    | -- CMD
+|    | -- HELP 
+|    | -- BACK
+|
+| -- CLOSE
+| -- HELP
