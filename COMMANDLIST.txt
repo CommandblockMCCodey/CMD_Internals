@@ -1,1 +1,12 @@
-
+HELP      shows all commands in this folder, make sure you write it in upper letters
+Functions.      its a folder for commands utils, it contains [RRUN  SET_VAR  CRASH  HELP BACK]
+CLOSE      it closes the CMD_Internals make sure that its written in upper case letters
+Tools.      its a folder for tools for small jobs and it also has a buildin cmd you can run it with the CMD command. Tools. contains [DIR IPCONFIG  WHOIS  CMD  HELP BACK]
+RRUN      it can run commands more than once you can set the run. just make sure its not too mutch for you PC/Laptop
+SET_VAR      it sets or changes a var but first if it already exists it shows the value before you can write somthing in it
+CMD      it runs a intigrated terminal (CMD not powershell or anything else) with EXIT you leave it but make sure you written in upper case letters
+WHOIS      does a WOHIS query but make sure you written in upper case letters
+IPCONFIG      does the same as ipconfig, make sure you written in upper case letters
+DIR      does the same as dir, make sure you written in upper case letters
+BACK      goes back to the root directory, make sure you written in upper case letters
+CRASH      DANGER! it crashes you PC/Laptop instandly and somtimes leaves a blue screen. its just for fun but be careful. make sure you written in upper case letters
